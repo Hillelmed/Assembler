@@ -1,0 +1,14 @@
+[ERROR] First parsing failed at line : 7 error message : Registry does not exist in the system please change to 0-31
+[ERROR] First parsing failed at line : 8 error message : Too many parameters
+[ERROR] First parsing failed at line : 9 error message : Command not found : lab
+
+[ERROR] First parsing failed at line : 11 error message : Label already exist in .as label : MAIN
+[ERROR] First parsing failed at line : 15 error message : Command not found : swww
+
+[ERROR] Second parsing failed at line : 4 error message : Label uses in entry not exist in the symbols list
+[ERROR] Second parsing failed at line : 10 error message : Command use symbol doesn't exist!
+[ERROR] Output files will not be created
+
+[ERROR] assembler: the file : blalala.as failed to read maybe not exist 
+
+[ERROR] file path are not valid : babab 
